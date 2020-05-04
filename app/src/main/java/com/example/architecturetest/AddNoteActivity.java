@@ -30,7 +30,7 @@ public class AddNoteActivity extends AppCompatActivity {
         setContentView(R.layout.activity_add_note);
 
         editTextTitle = findViewById(R.id.edit_text_title);
-        editTextTitle = findViewById(R.id.edit_text_description);
+        editTextDescription = findViewById(R.id.edit_text_description);
         numberPickerPriority = findViewById(R.id.number_picker_priority);
 
         numberPickerPriority.setMinValue(1);
