@@ -1,6 +1,6 @@
 # MVVM
 
-## Screenshot
+## Screenshots
 
 <img src="https://i.imgur.com/SbPV9eW.jpg" width="50%">
 
