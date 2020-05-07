@@ -1,5 +1,5 @@
 # MVVM
 
-![Imgur](https://i.imgur.com/SbPV9eW.jpg)
-![Imgur](https://i.imgur.com/qWJwxHS.jpg)
-![Imgur](https://i.imgur.com/VuMAcPE.gifv)
+
+<img src="https://i.imgur.com/SbPV9eW.jpg" width="50%">
+<img src="(https://i.imgur.com/qWJwxHS.jpg" width="50%">
